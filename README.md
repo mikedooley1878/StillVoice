@@ -9,7 +9,10 @@ A free Android app for people living with MND, or anyone who finds it hard to ta
 - Opens from the lock screen without the PIN
 - A step-by-step setup guide anyone can follow
 
-**Android 11 or newer, phones and tablets.** Apple iPhone and iPad coming soon.
+**Android 11 or newer, phones and tablets.**
+
+**iPhone and iPad:** use the free web app at **https://ever1878.com/stillvoice/**. Open it in Safari and add it to your Home Screen; it works offline. (Some features are Android-only because of Apple's rules for web apps; the page explains which.)
+
 New features are added regularly. Want something it doesn't do yet? Email me at info@ever1878.com. I'm happy to add it if it's possible.
 
 ## Download
