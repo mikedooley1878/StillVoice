@@ -11,7 +11,14 @@ A free Android app for people living with MND, or anyone who finds it hard to ta
 
 **Android 11 or newer, phones and tablets.**
 
-**iPhone and iPad:** use the free web app at **https://ever1878.com/stillvoice/**. Open it in Safari and add it to your Home Screen; it works offline. (Some features are Android-only because of Apple's rules for web apps; the page explains which.)
+## Web app: Android, iPhone and iPad
+
+There's also a free web app at **https://ever1878.com/stillvoice/**. Nothing to download: add it to your Home Screen and it gets its own icon and works offline. Use it on an iPhone or iPad, on Android 9 or 10 (too old for the app), or on any Android phone if you'd rather not install the app.
+
+- **Android:** open the page in **Chrome** → tap the **⋮** menu (top right) → **Add to Home screen** (some phones say **Install app**) → **Install**.
+- **iPhone and iPad:** open the page in **Safari** → tap **Share** → **Add to Home Screen** → **Add**.
+
+Web apps can't do everything: you tap Send yourself in WhatsApp, and there are no smart plugs, reply suggestions, lock-screen access or USB photo backup. The Android app does all of these.
 
 New features are added regularly. Want something it doesn't do yet? Email me at info@ever1878.com. I'm happy to add it if it's possible.
 
