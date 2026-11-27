@@ -20,6 +20,19 @@ There's also a free web app at **https://ever1878.com/stillvoice/**. Nothing to 
 
 Web apps can't do everything: you tap Send yourself in WhatsApp, and there are no smart plugs, reply suggestions, lock-screen access or USB photo backup. The Android app does all of these.
 
+## StillVoice Keyboard (tablets)
+
+A big on-screen keyboard for tablets that guesses what you're typing and says it out loud.
+
+- Extra-large keys that fill the screen, in landscape or portrait
+- Four big word guesses as you type, and next-word guesses after each word, even with a slipped or missed letter
+- Learns the words, names and phrases you use (kept on the tablet only)
+- **SPEAK** says it out loud; one-tap Phrases; Send to WhatsApp or text
+
+It's a separate app that installs next to StillVoice. Android 8 or newer.
+
+**[Download StillVoice Keyboard](https://github.com/mikedooley1878/StillVoice/raw/main/StillVoice-Keyboard.apk)**. Install it the same way as StillVoice.
+
 New features are added regularly. Want something it doesn't do yet? Email me at info@ever1878.com. I'm happy to add it if it's possible.
 
 ## Download
